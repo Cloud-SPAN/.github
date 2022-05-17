@@ -1,4 +1,8 @@
-## Hi there 👋
+## Welcome to Cloud-SPAN on GitHub! 👋
+
+Cloud-SPAN is a project run by the [Department of Biology](https://www.york.ac.uk/biology) at the University of York, UK which trains researchers in the experimental design and analysis of ‘omics data using cloud-based High Performance Computing (HPC).
+
+
 
 <!--
 
@@ -7,6 +11,5 @@
 🙋‍♀️ A short introduction - what is your organization all about?
 🌈 Contribution guidelines - how can the community get involved?
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
 -->
