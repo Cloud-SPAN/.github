@@ -27,12 +27,13 @@ Illustration from Luc Wiegers and Celia van Gelder: [https://doi.org/10.5281/zen
 
 ## Our Handbook
 The Cloud-SPAN team are dedicated to providing a welcoming and supportive environment for all people, regardless of background or identity. We hope aim to develop a community of practice around our materials.
-We have a [Handbook](https://cloud-span.github.io/CloudSPAN-handbook/) that gives 
-⭐ An introduction to the project
-🤝 Our Code of Conduct
-🎓 More information on our Courses
-👪 An open invitation to the Cloud-SPAN Community
-📌 Information about the FAIR Principles
-📜Cloud-SPAN Online Forum
+We have a [Handbook](https://cloud-span.github.io/CloudSPAN-handbook/) that gives:
+
+⭐ An introduction to the project  
+🤝 Our Code of Conduct  
+🎓 More information on our Courses  
+👪 An open invitation to the Cloud-SPAN Community  
+📌 Information about the FAIR Principles  
+📜Cloud-SPAN Online Forum  
 
 
