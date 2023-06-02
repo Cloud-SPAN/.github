@@ -6,8 +6,6 @@ The project has been running since September 2021 and is collaboration between t
 
 ### Our modules
 
-We have currently developed three modules:
-
 | Module                     | Description |
 | -------------------------- | ---------|
 | [Prenomics](https://cloud-span.github.io/prenomics00-intro/)| Prenomics is a 4 - 6 hour module that teaches the basics of command-line programming, including: (1) file directory structure, (2) use of command-line utilities to connect to and use cloud computing and storage resources and (3) basic shell commands for file navigation and basic script writing. It is designed to prepare people for  [Genomics](https://cloud-span.github.io/00genomics) but, depending on previous experience, you may not need it. There is short (~5 minutes) [Self-assessment Quiz](https://shiny.york.ac.uk/er13/prenomics-quiz/#section-why) to help you decide if you would benefit from attending Prenomics before the Genomics.|
