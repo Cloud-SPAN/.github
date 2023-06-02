@@ -2,7 +2,7 @@
 
 Cloud-SPAN develops training in **Sp**ecialised **an**alyses for environmental 'omics with Cloud-based High Performance Computing. The training is aimed at both Environmental Biotechnology researchers and the Research Computing teams that support them.
 
-The project has been running since September 2021 and is collaboration between the [Department of Biology](https://www.york.ac.uk/biology/) at the University of York, UK, and the [Software Sustainability Institute](https://www.software.ac.uk/), and funded by the [UKRI innovation scholars award](https://www.ukri.org/news/initiatives-boost-health-and-bioscience-skills-and-industry/) under project reference [MR/V038680/1](https://gtr.ukri.org/projects?ref=MR%2FV038680%2F1).
+The project has been running since September 2021 and is collaboration between the [Department of Biology](https://www.york.ac.uk/biology/) at the University of York, UK, and the [Software Sustainability Institute](https://www.software.ac.uk/), and funded by the [UKRI innovation scholars award](https://www.ukri.org/news/initiatives-boost-health-and-bioscience-skills-and-industry/) ([MR/V038680/1](https://gtr.ukri.org/projects?ref=MR%2FV038680%2F1)) the Natural Environment Research Council ([NE/X006999/1](https://gtr.ukri.org/projects?ref=NE%2FX006999%2F1#/tabOverview)). 
 
 ### Our modules
 
