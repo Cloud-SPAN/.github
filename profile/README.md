@@ -1,6 +1,6 @@
 ## Welcome to Cloud-SPAN on GitHub! 👋
 
-Cloud-SPAN develops training in 'omics with Cloud-based High Performance Computing. The training is aimed at both biscience researchers and the Research Computing teams that support them.
+Cloud-SPAN develops training in 'omics with Cloud-based High Performance Computing. The training is aimed at both bioscience researchers and the Research Computing teams that support them.
 
 The project has been running since September 2021 and is collaboration between the [Department of Biology](https://www.york.ac.uk/biology/) at the University of York, UK, and the [Software Sustainability Institute](https://www.software.ac.uk/), and funded by the [UKRI innovation scholars award](https://www.ukri.org/news/initiatives-boost-health-and-bioscience-skills-and-industry/) ([MR/V038680/1](https://gtr.ukri.org/projects?ref=MR%2FV038680%2F1)) the Natural Environment Research Council ([NE/X006999/1](https://gtr.ukri.org/projects?ref=NE%2FX006999%2F1#/tabOverview) and  ([NE/Y003527/1](https://gotw.nerc.ac.uk/list_full.asp?pcode=NE%2FY003527%2F1))). 
 
